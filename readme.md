@@ -38,12 +38,13 @@
 
 ## Terminology
 
-| Terminology | Description         |
-| :---------- | :------------------ |
-| QPS         | Queries Per Second  |
-| RPM         | Requests Per Minute |
-| TPM         | Tokens Per Minute   |
-| TPD         | Tokens Per Day      |
+| Terminology | Description                                                                                                                                                                                                                                                                                                                                                                                   |
+| :---------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Token       | The text generation model processes text in Token-based units. Token represents a common sequence of characters. For example, a single Chinese character“Kui” might be decomposed into a combination of tokens, while a short and common phrase like“China” might use a single Token. Roughly speaking, one Token is equivalent to about 1.5-2 Chinese characters for a typical Chinese text. |
+| QPS         | Queries Per Second                                                                                                                                                                                                                                                                                                                                                                            |
+| RPM         | Requests Per Minute                                                                                                                                                                                                                                                                                                                                                                           |
+| TPM         | Tokens Per Minute                                                                                                                                                                                                                                                                                                                                                                             |
+| TPD         | Tokens Per Day                                                                                                                                                                                                                                                                                                                                                                                |
 
 ## APIs
 
