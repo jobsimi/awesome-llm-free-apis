@@ -25,6 +25,7 @@
 - [限制 QPS、次数、模型](#限制-qps次数模型)
 - [限制总次数、tokens、RPM、PRD](#限制总次数tokensrpmprd)
 - [限制总次数](#限制总次数)
+- [Limit total times, validity](#limit-total-times-validity)
 
 <br>
 <hr>
@@ -48,3 +49,7 @@
 ## 限制总次数
 
 - [LLaMA3.1-8B](https://build.nvidia.com/explore/discover#llama-3_1-8b-instruct) - NVIDIA LLaMA3.1-8B 是一种大型语言模型，可用于各种自然语言处理任务，包括文本生成、翻译和问答。它是基于 LLaMA 体系结构，并在互联网上的大型文本数据集上进行训练。
+
+## Limit total times, validity
+
+- [DeepSeek](https://platform.deepseek.com/api-docs/zh-cn/) - DeepSeek API 使用与 OpenAI 兼容的 API 格式，通过修改配置，您可以使用 OpenAI SDK 来访问 DeepSeek API，或使用与 OpenAI API 兼容的软件。

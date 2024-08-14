@@ -25,6 +25,7 @@
 - [Limit QPS/times/models](#limit-qpstimesmodels)
 - [Limit total times/tokens/RPM/PRD](#limit-total-timestokensrpmprd)
 - [Limit total times](#limit-total-times)
+- [Limit total times, validity](#limit-total-times-validity)
 
 <br>
 <hr>
@@ -48,3 +49,7 @@
 ## Limit total times
 
 - [LLaMA3.1-8B](https://build.nvidia.com/explore/discover#llama-3_1-8b-instruct) - NVIDIA LLaMA3.1-8B is a large language model that can be used for a variety of natural language processing tasks, including text generation, translation, and question answering. It is based on the LLaMA architecture and is trained on a large dataset of text from the internet.
+
+## Limit total times, validity
+
+- [DeepSeek](https://platform.deepseek.com/api-docs/zh-cn/) - The DeepSeek API uses an OpenAI-compatible API format, and by modifying the configuration, you can use the OpenAI SDK to access the DeepSeek API, or use OpenAI API-compatible software.
