@@ -22,7 +22,8 @@
 - [Contents](#contents)
 - [Limit QPS](#limit-qps)
 - [Easily blocked IP, Limit models](#easily-blocked-ip-limit-models)
-- [Limit QPS、times、models](#limit-qpstimesmodels)
+- [Limit QPS/times/models](#limit-qpstimesmodels)
+- [Limit total times/tokens/RPM/PRD](#limit-total-timestokensrpmprd)
 
 <br>
 <hr>
@@ -35,6 +36,10 @@
 
 - [gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 
-## Limit QPS、times、models
+## Limit QPS/times/models
 
 - [GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free CHATGPT API Key, Free CHATGPT API, support GPT4 API (Free) , CHATGPT domestic available Free forwarding API, direct connect without proxy. Can be used with ChatBox and other software/plug-ins, greatly reduce the cost of using the interface. Domestic can be unlimited free chat.
+
+## Limit total times/tokens/RPM/PRD
+
+- [Coze](https://www.coze.com/docs/developer_guides/coze_api_overview) - Coze is a next-generation AI application and chatbot development platform. Regardless of your programming experience, Coze enables you to effortlessly create various chatbots and deploy them across different social platforms and messaging apps.

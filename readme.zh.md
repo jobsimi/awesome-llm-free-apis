@@ -23,6 +23,7 @@
 - [限制 QPS](#限制-qps)
 - [易封 IP，限制模型](#易封-ip限制模型)
 - [限制 QPS、次数、模型](#限制-qps次数模型)
+- [限制总次数、tokens、RPM、PRD](#限制总次数tokensrpmprd)
 
 <br>
 <hr>
@@ -38,3 +39,7 @@
 ## 限制 QPS、次数、模型
 
 - [GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费 ChatGPT API，支持 GPT4 API（免费），ChatGPT 国内可用免费转发 API，直连无需代理。可以搭配 ChatBox 等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
+
+## 限制总次数、tokens、RPM、PRD
+
+- [Coze](https://www.coze.com/docs/developer_guides/coze_api_overview) - Coze 是下一代人工智能应用和聊天机器人开发平台。不管你的编程经验如何，Coze 可以让你毫不费力地创建各种聊天机器人，并将它们部署到不同的社交平台和消息应用程序上。
