@@ -75,4 +75,4 @@
 
 ### 限制模型、总 Tokens
 
-- [ChatGLM](https://open.bigmodel.cn/dev/api#overview) - 大模型。人工智能 MaaS 平台。调用 GLM 模型 API 容易。快速构建人工智能应用程序。
+- [ChatGLM](https://open.bigmodel.cn/dev/api#overview) - 智普清言大模型。人工智能 MaaS 平台。调用 GLM 模型 API 容易。快速构建人工智能应用程序。
