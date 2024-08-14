@@ -20,36 +20,54 @@
 ## 目录
 
 - [目录](#目录)
-- [限制 QPS](#限制-qps)
-- [易封 IP，限制模型](#易封-ip限制模型)
-- [限制 QPS、次数、模型](#限制-qps次数模型)
-- [限制总次数、tokens、RPM、PRD](#限制总次数tokensrpmprd)
-- [限制总次数](#限制总次数)
-- [限制总次数、有效期](#限制总次数有效期)
+- [术词](#术词)
+- [APIs](#apis)
+	- [仅限制 QPS](#仅限制-qps)
+	- [易封 IP，限制模型](#易封-ip限制模型)
+	- [限制 QPS、次数、模型](#限制-qps次数模型)
+	- [限制总次数、tokens、RPM、PRD](#限制总次数tokensrpmprd)
+	- [限制总次数、模型](#限制总次数模型)
+	- [限制总次数、有效期](#限制总次数有效期)
+	- [限制模型、并发、RPM、TPM、TPD](#限制模型并发rpmtpmtpd)
 
 <br>
 <hr>
 
-## 限制 QPS
+## 术词
+
+| 术词 |                解释                |
+| :--: | :--------------------------------: |
+| QPS  |   Queries Per Second, 每秒查询率   |
+| RPM  | Requests Per Minute, 每分钟请求数  |
+| TPM  | Tokens Per Minute, 每分钟 Token 数 |
+| TPD  |   Tokens Per Day, 每天 Token 数    |
+
+## APIs
+
+### 仅限制 QPS
 
 - [智汇 API](https://cognihub.baystoneai.com) - 我是智汇 API，向开发者提供大模型推理 API，注册开发者账号后，即可获得 APPKEY，可以切换市面上所有主流大语言模型，兼容 OpenAI API
 
-## 易封 IP，限制模型
+### 易封 IP，限制模型
 
 - [gpt4free](https://github.com/xtekky/gpt4free) - 官方的 gpt4free 库 | 各种强大的语言模型的集合
 
-## 限制 QPS、次数、模型
+### 限制 QPS、次数、模型
 
 - [GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费 ChatGPT API，支持 GPT4 API（免费），ChatGPT 国内可用免费转发 API，直连无需代理。可以搭配 ChatBox 等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
 
-## 限制总次数、tokens、RPM、PRD
+### 限制总次数、tokens、RPM、PRD
 
 - [Coze](https://www.coze.com/docs/developer_guides/coze_api_overview) - Coze 是下一代人工智能应用和聊天机器人开发平台。不管你的编程经验如何，Coze 可以让你毫不费力地创建各种聊天机器人，并将它们部署到不同的社交平台和消息应用程序上。
 
-## 限制总次数
+### 限制总次数、模型
 
 - [LLaMA3.1-8B](https://build.nvidia.com/explore/discover#llama-3_1-8b-instruct) - NVIDIA LLaMA3.1-8B 是一种大型语言模型，可用于各种自然语言处理任务，包括文本生成、翻译和问答。它是基于 LLaMA 体系结构，并在互联网上的大型文本数据集上进行训练。
 
-## 限制总次数、有效期
+### 限制总次数、有效期
 
 - [DeepSeek](https://platform.deepseek.com/api-docs/zh-cn/) - DeepSeek API 使用与 OpenAI 兼容的 API 格式，通过修改配置，您可以使用 OpenAI SDK 来访问 DeepSeek API，或使用与 OpenAI API 兼容的软件。
+
+### 限制模型、并发、RPM、TPM、TPD
+
+- [Kimi](https://platform.moonshot.cn/docs/intro) - Moonshot 提供基于 HTTP 的 API 服务接入，并且对大部分 API，我们兼容了 OpenAI SDK。
