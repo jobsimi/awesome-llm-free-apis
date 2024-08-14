@@ -65,7 +65,6 @@
 ### 仅限制 QPS
 
 - [智汇 API](https://cognihub.baystoneai.com) - 我是智汇 API，向开发者提供大模型推理 API，注册开发者账号后，即可获得 APPKEY，可以切换市面上所有主流大语言模型，兼容 OpenAI API
-- [Spark Lite](https://xinghuo.xfyun.cn/sparkapi#price) - 星火大模型 API：· 整体能力接近 GPT 4-Turbo，语音大模型效果领先 · 适用于各类业务场景，更提供大模型生命周期定制工具 · Lite 版本接入全免费，Pro/Max/Ultra 版本行业低价
 
 ### 易封 IP，限制模型
 
