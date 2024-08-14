@@ -30,6 +30,8 @@
   - [Limit total times/validity](#limit-total-timesvalidity)
   - [Limit models/concurrence/RPM/TPM/TPD](#limit-modelsconcurrencerpmtpmtpd)
   - [Limit models/total Tokens](#limit-modelstotal-tokens)
+  - [Limit QPS/models](#limit-qpsmodels)
+  - [Limit models/total Tokens/validity](#limit-modelstotal-tokensvalidity)
 
 <br>
 <hr>
@@ -76,3 +78,11 @@
 ### Limit models/total Tokens
 
 - [ChatGLM](https://open.bigmodel.cn/dev/api#overview) - BigModel. AI MaaS Platform. Call GLM model APIs easily. Build AI applications quickly.
+
+### Limit QPS/models
+
+- [Spark Lite](https://xinghuo.xfyun.cn/sparkapi#price) - Spark Large Model API: · Overall capability close to GPT 4-Turbo, voice large model leading the way · Suitable for various business scenarios, but also provides large model life cycle customization tools · Lite version access free, pro/MAX/Ultra version industry low price
+
+### Limit models/total Tokens/validity
+
+- [Spark 4.0 Ulta and etc](https://xinghuo.xfyun.cn/sparkapi#price) - Spark Large Model API: the most powerful spark large model version, the effect is excellent, all-round improvement effect, leading the peak of intelligence, optimization of Internet search links, provide accurate answers, strengthen the ability of text summary, enhance office productivity

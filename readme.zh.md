@@ -30,6 +30,8 @@
 	- [限制总次数、有效期](#限制总次数有效期)
 	- [限制模型、并发、RPM、TPM、TPD](#限制模型并发rpmtpmtpd)
 	- [限制模型、总 Tokens](#限制模型总-tokens)
+	- [限制 QPS、模型](#限制-qps模型)
+	- [限制模型、总 Tokens、有效期](#限制模型总-tokens有效期)
 
 <br>
 <hr>
@@ -48,6 +50,7 @@
 ### 仅限制 QPS
 
 - [智汇 API](https://cognihub.baystoneai.com) - 我是智汇 API，向开发者提供大模型推理 API，注册开发者账号后，即可获得 APPKEY，可以切换市面上所有主流大语言模型，兼容 OpenAI API
+- [Spark Lite](https://xinghuo.xfyun.cn/sparkapi#price) - 星火大模型 API：· 整体能力接近 GPT 4-Turbo，语音大模型效果领先 · 适用于各类业务场景，更提供大模型生命周期定制工具 · Lite 版本接入全免费，Pro/Max/Ultra 版本行业低价
 
 ### 易封 IP，限制模型
 
@@ -76,3 +79,11 @@
 ### 限制模型、总 Tokens
 
 - [ChatGLM](https://open.bigmodel.cn/dev/api#overview) - 智普清言大模型。人工智能 MaaS 平台。调用 GLM 模型 API 容易。快速构建人工智能应用程序。
+
+### 限制 QPS、模型
+
+- [Spark Lite](https://xinghuo.xfyun.cn/sparkapi#price) - 星火大模型 API：· 整体能力接近 GPT 4-Turbo，语音大模型效果领先 · 适用于各类业务场景，更提供大模型生命周期定制工具 · Lite 版本接入全免费，Pro/Max/Ultra 版本行业低价
+
+### 限制模型、总 Tokens、有效期
+
+- [Spark 4.0 Ulta 等等](https://xinghuo.xfyun.cn/sparkapi#price) - 星火大模型 API：最强大的星火大模型版本，效果极佳，全方位提升效果，引领智能巅峰，优化联网搜索链路，提供精准回答，强化文本总结能力，提升办公生产力
