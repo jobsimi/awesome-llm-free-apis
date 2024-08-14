@@ -27,8 +27,9 @@
   - [Limit QPS/times/models](#limit-qpstimesmodels)
   - [Limit total times/tokens/RPM/PRD](#limit-total-timestokensrpmprd)
   - [Limit total times](#limit-total-times)
-  - [Limit total times, validity](#limit-total-times-validity)
-  - [Limit models, concurrence、RPM、TPM、TPD](#limit-models-concurrencerpmtpmtpd)
+  - [Limit total times/validity](#limit-total-timesvalidity)
+  - [Limit models/concurrence/RPM/TPM/TPD](#limit-modelsconcurrencerpmtpmtpd)
+  - [Limit models/total Tokens](#limit-modelstotal-tokens)
 
 <br>
 <hr>
@@ -64,10 +65,14 @@
 
 - [LLaMA3.1-8B](https://build.nvidia.com/explore/discover#llama-3_1-8b-instruct) - NVIDIA LLaMA3.1-8B is a large language model that can be used for a variety of natural language processing tasks, including text generation, translation, and question answering. It is based on the LLaMA architecture and is trained on a large dataset of text from the internet.
 
-### Limit total times, validity
+### Limit total times/validity
 
 - [DeepSeek](https://platform.deepseek.com/api-docs/zh-cn/) - The DeepSeek API uses an OpenAI-compatible API format, and by modifying the configuration, you can use the OpenAI SDK to access the DeepSeek API, or use OpenAI API-compatible software.
 
-### Limit models, concurrence、RPM、TPM、TPD
+### Limit models/concurrence/RPM/TPM/TPD
 
 - [Kimi](https://platform.moonshot.cn/docs/intro) - Moonshot provides HTTP-based API service access, and for most apis, we are compatible with the OpenAI SDK.
+
+### Limit models/total Tokens
+
+- [ChatGLM](https://open.bigmodel.cn/dev/api#overview) - BigModel. AI MaaS Platform. Call GLM model APIs easily. Build AI applications quickly.

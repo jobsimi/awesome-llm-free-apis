@@ -29,6 +29,7 @@
 	- [限制总次数、模型](#限制总次数模型)
 	- [限制总次数、有效期](#限制总次数有效期)
 	- [限制模型、并发、RPM、TPM、TPD](#限制模型并发rpmtpmtpd)
+	- [限制模型、总 Tokens](#限制模型总-tokens)
 
 <br>
 <hr>
@@ -71,3 +72,7 @@
 ### 限制模型、并发、RPM、TPM、TPD
 
 - [Kimi](https://platform.moonshot.cn/docs/intro) - Moonshot 提供基于 HTTP 的 API 服务接入，并且对大部分 API，我们兼容了 OpenAI SDK。
+
+### 限制模型、总 Tokens
+
+- [ChatGLM](https://open.bigmodel.cn/dev/api#overview) - 大模型。人工智能 MaaS 平台。调用 GLM 模型 API 容易。快速构建人工智能应用程序。
