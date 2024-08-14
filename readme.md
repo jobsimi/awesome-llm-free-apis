@@ -24,6 +24,7 @@
 - [Easily blocked IP, Limit models](#easily-blocked-ip-limit-models)
 - [Limit QPS/times/models](#limit-qpstimesmodels)
 - [Limit total times/tokens/RPM/PRD](#limit-total-timestokensrpmprd)
+- [Limit total times](#limit-total-times)
 
 <br>
 <hr>
@@ -43,3 +44,7 @@
 ## Limit total times/tokens/RPM/PRD
 
 - [Coze](https://www.coze.com/docs/developer_guides/coze_api_overview) - Coze is a next-generation AI application and chatbot development platform. Regardless of your programming experience, Coze enables you to effortlessly create various chatbots and deploy them across different social platforms and messaging apps.
+
+## Limit total times
+
+- [LLaMA3.1-8B](https://build.nvidia.com/explore/discover#llama-3_1-8b-instruct) - NVIDIA LLaMA3.1-8B is a large language model that can be used for a variety of natural language processing tasks, including text generation, translation, and question answering. It is based on the LLaMA architecture and is trained on a large dataset of text from the internet.

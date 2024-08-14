@@ -24,6 +24,7 @@
 - [易封 IP，限制模型](#易封-ip限制模型)
 - [限制 QPS、次数、模型](#限制-qps次数模型)
 - [限制总次数、tokens、RPM、PRD](#限制总次数tokensrpmprd)
+- [限制总次数](#限制总次数)
 
 <br>
 <hr>
@@ -43,3 +44,7 @@
 ## 限制总次数、tokens、RPM、PRD
 
 - [Coze](https://www.coze.com/docs/developer_guides/coze_api_overview) - Coze 是下一代人工智能应用和聊天机器人开发平台。不管你的编程经验如何，Coze 可以让你毫不费力地创建各种聊天机器人，并将它们部署到不同的社交平台和消息应用程序上。
+
+## 限制总次数
+
+- [LLaMA3.1-8B](https://build.nvidia.com/explore/discover#llama-3_1-8b-instruct) - NVIDIA LLaMA3.1-8B 是一种大型语言模型，可用于各种自然语言处理任务，包括文本生成、翻译和问答。它是基于 LLaMA 体系结构，并在互联网上的大型文本数据集上进行训练。
