@@ -11,10 +11,24 @@
 <br>
 <br>
 
-[中文](readme.zh.md) | [English](readme.md)
+<div align="center">
+	<h1>Awesome LLM Free APIs</h1>
+</div>
 
 <br>
+
+<div align="center">
+    <a href="readme.zh.md">中文</a>
+    <span>|</span>
+    <a href="readme.md">English</a>
+</div>
+
 <br>
+
+<div align="center">
+    <p>查看 <a href="https://github.com/jobsimi/awesome-llm-free-apis">Github</a> <span>| </span> <a href="https://gitee.com/jobsimi/awesome-llm-free-apis">Gitee</a> 以获取最新内容</p>
+</div>
+
 <br>
 
 ## 目录
